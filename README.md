@@ -24,6 +24,14 @@ Take your time, read the code comments, run it, modify it and run it again to un
 
 Happy hacking :)
 
+# Setup
+
+1) Install pip (using terminal/command prompt navigate to the "Setup" directory and run `python get-pip.py`
+2) Reload your terminal/command prompt (open and close)
+3) Make sure pip is installed by running: `pip freeze`
+4) If it is, you can now install the needed dependencies by running from the root of the project: 
+`pip install -U -r Setup/requirements.txt`
+
 # Version
 0.0.5
 
