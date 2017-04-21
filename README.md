@@ -14,8 +14,6 @@ Some of the topics that are covered here:
  - Storing your results
  - Scaling up your crawler
 
-Ideally, at the end of this "Course" you should be able to write your own Crawler / Scrapper in C#.
-
 # How do I Start ?
 
 Keep this project Wiki open at all times, since most of the text / references will be there for you to read, while you advance through the chapters/classes of this project.
@@ -23,6 +21,8 @@ Keep this project Wiki open at all times, since most of the text / references wi
 Start each chapter by going to the Wiki first, and only after reading it's text, proceed to the code. 
 
 Take your time, read the code comments, run it, modify it and run it again to understand the impact of each change.
+
+Happy hacking :)
 
 # Version
 0.0.5
