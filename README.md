@@ -1,5 +1,7 @@
 # Web Crawling 101 - On Going Project
 
+Wondering what this is all about? Take 2 minutes to read our short [Open Code, Open Data Manifesto].
+
 This project is structured to work as a series of classes focused on bootstrapping your data-mining / web-crawling knowledge. 
 Some of the topics that are covered here:
 
@@ -29,3 +31,4 @@ Take your time, read the code comments, run it, modify it and run it again to un
 [Anatomy of a Crawler (Policies and Behaviors)]:https://github.com/MarcelloLins/WebCrawling101/wiki/Chapter-1-:-Anatomy-of-a-Crawler
 
 [Understanding HTTP Requests]:https://github.com/MarcelloLins/WebCrawling101/wiki/Chapter-2-:-Understanding-HTTP-Requests
+[Open Code, Open Data Manifesto]:https://github.com/MarcelloLins/WebCrawling101/wiki/The-Open-Code-Open-Data-Manifesto
