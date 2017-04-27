@@ -62,6 +62,10 @@ class cnn_crawler:
 
         return len(links)
 
+    """
+    Summarizes how awesome this code is. Remember, every good crawler
+    has to come up with impressive numbers in the end. This is like Rule #1
+    """
     def print_summary(self):
         log.info('Total Page Links Found: %d' % self.total_links)
         log.info('Valid Links (Selection Policy OK): %d', len(self.urls))
