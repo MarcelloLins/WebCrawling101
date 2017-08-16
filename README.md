@@ -32,6 +32,9 @@ Happy hacking :)
 4) If it is, you can now install the needed dependencies by running from the root of the project: 
 `pip install -U -r Setup/requirements.txt`
 
+# About Me
+Marcello Lins is passionate about technology and crunching data for fun. Feel free to connect with me through Linkedin and find more about what I'm working at via my [AboutMe Profile](http://www.about.me/marcellolins).
+Visit https://techflow.me/ for more awesomeness !
 # Version
 0.0.5
 
